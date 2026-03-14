@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [Resume]()
 - 🌱 I’m currently a college student
+- 📧 Email: [modikrishna852@gmail.com](mailto:modikrishna852@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
