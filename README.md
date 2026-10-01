@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bHLNOb-N7w2LTBfg_5_agby_Lxdn-o20/view?usp=sharing)
 - 🌱 I’m currently a college student
 - 📧 Email: [modikrishna852@gmail.com](mailto:modikrishna852@gmail.com)
 
